@@ -1,0 +1,6 @@
+{
+  "name": "PRL & Manteniment Naval - UT1 & Joc dels 7 Errors",
+  "description": "Plataforma didàctica interactiva bilingüe sobre Prevenció de Riscos Laborals i EPIs, amb simulador dels 7 errors en manteniment d'embarcacions i operari virtual guia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
